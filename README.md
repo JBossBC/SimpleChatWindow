@@ -2,7 +2,7 @@
 
 ## 这是一个基于redis的订阅与发布模型做的一个聊天室的小程序，实现了简单的通话模型。
 
-**怎样去使用?
+** 怎样去使用?
 
 基于Windows10操作系统
 1. 修改DataSource文件夹的yaml配置文件，将redis以及mysql的hostname配置为服务器的hostname，注意一定要在同一个网络中才能够使用。
